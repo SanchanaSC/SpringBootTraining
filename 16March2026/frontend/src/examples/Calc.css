@@ -1,0 +1,26 @@
+body{
+  background: linear-gradient(to right, #4facfe, #00f2fe);
+  font-family: Arial;
+}
+
+.calc{
+  width: 300px;
+  margin: 120px auto;
+  padding: 20px;
+  text-align: center;
+  background: black;
+  border-radius: 12px;
+  box-shadow: 0 5px 15px rgba(216, 19, 19, 0.3);
+}
+
+input{
+  padding: 8px;
+  margin-right: 10px;
+  color: black;
+}
+
+button{
+  padding: 8px 15px;
+  cursor: pointer;
+  background-color: pink;
+}

@@ -1,0 +1,11 @@
+function Hello({name,age}){
+    return(
+        <>
+        <div>
+            <div>Hello,My name is :{name}</div>
+            <div>My age is {age}</div>
+        </div>
+        </>
+    );
+}
+export default Hello;
