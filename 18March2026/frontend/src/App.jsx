@@ -9,6 +9,7 @@ import PassFail from "./components/PassFail";
 import PrimeNumber from "./components/PrimeNumber";
 import SwitchFunction from "./components/switchFunction";
 import countingDemo from "./components/countingDemo";
+import PrimeNoList from "./components/PrimeNoList";
 // import { useState } from "react";
 
 // function App() {
@@ -53,6 +54,8 @@ function App() {
       <PassFail/>
       <br/>
       <ListPrimeNum/>
+      <br/>
+      <PrimeNoList/>
     </div>
   );
 }
